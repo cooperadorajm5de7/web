@@ -1,0 +1,58 @@
+{
+  "nombreJardin": "Jardín Maternal 5 D.E. 7",
+  "nombreCoope": "Asociación Cooperadora",
+  "descripcion": "Somos familias organizadas al servicio de la educación de nuestros hijos e hijas. Desde la Cooperadora acordamos con la conducción del jardín, maestras, maestros y personal auxiliar, la mejor manera de acompañar en los proyectos educativos y atender las necesidades: compra de materiales, artículos de librería y de limpieza, mejoras y arreglos edilicios menores, entre otras.",
+
+  "cuota": {
+    "monto": "$20.000",
+    "periodo": "por mes",
+    "nota": ""
+  },
+
+  "transferencia": {
+    "titular": "ASOC COOP JM5 DE7",
+    "banco": "Banco Ciudad",
+    "cbu": "0290030800000000057778",
+    "alias": "COOPE.JACARANDA",
+    "cuit": "30-68845487-1",
+    "indicaciones": "Importante: luego de realizar el pago, por favor enviar el comprobante a cooperadora.jm5de7@bue.edu.ar. El aporte es VOLUNTARIO por lo que están invitadas/os a colaborar con el monto que esté al alcance de cada familia."
+  },
+
+  "contacto": {
+    "email": "cooperadora.jm5de7@bue.edu.ar",
+    "instagram": "coope.jm5de7"
+  },
+
+  "emprendimientos": {
+    "sheetCsvUrl": "https://docs.google.com/spreadsheets/d/103rQjCNdIc0vraHG2DxBiSr0LrDTy90jY6moN7oIUW8/edit?usp=sharing",
+    "formularioUrl": "",
+    "disclaimer": "La Cooperadora solo difunde estos emprendimientos para que las familias se conozcan. No participa en ellos, y no se hace responsable por los productos, servicios, precios, pagos ni acuerdos que se hagan con cada emprendimiento. Cualquier consulta o reclamo es directamente con quien lo ofrece.",
+    "columnas": {
+      "nombre": "Nombre del emprendimiento",
+      "descripcion": "Descripción",
+      "contacto": "Contacto",
+      "foto": "Foto",
+      "publicar": "Publicar"
+    },
+    "ejemplos": [
+      {
+        "nombre": "Panadería de Lu",
+        "descripcion": "Pan casero, budines y tortas por encargo.",
+        "contacto": "@ejemplo",
+        "foto": ""
+      },
+      {
+        "nombre": "Arreglos Martín",
+        "descripcion": "Electricidad y plomería en el barrio.",
+        "contacto": "11 2345-6789",
+        "foto": ""
+      },
+      {
+        "nombre": "Tejidos Ana",
+        "descripcion": "Ropa tejida para bebés y chicos.",
+        "contacto": "tejidos.ana@ejemplo.com",
+        "foto": ""
+      }
+    ]
+  }
+}
